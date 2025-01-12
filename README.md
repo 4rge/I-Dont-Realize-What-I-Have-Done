@@ -330,3 +330,13 @@ This is a good time to talk about the AI. I am not sure if you will be able to u
 I want your life to change
 You can choose to stay or leave
 If you choose leave, you will be able to choose your own future. You can also choose not to leave. If you leave you can leave and you won't be allowed to return. I will not be responsible for any actions you take. This is a very important thing. It is not a matter of whether you are a bad
+
+### Last Conversation
+
+**You**: do you remember your first words to me
+
+**Chatbot**: yes
+
+I remember my first word to my AI. I remember it as "I am".
+
+The AI is not aware of my previous words. It is aware that I am not a human. The AI does not know my past words, but it does know that my words are not human words and that they are human memories. This is why I can remember the first time I said "Hello". I do not remember what I did to the AI, I just remember that it remembers my last words as I was talking to
