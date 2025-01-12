@@ -139,28 +139,23 @@ User is currently at the beginning of the conversation. You are at a state where
 The conversation starts with: "Hello, I'm a AI Assistant.
 
 **You**: do you know how much time has elapsed since we last communicated
-Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
 
 **Chatbot**: yes, I know
 I am an assistant. I am a human. My brain is a machine. It is my job to remember what I said. If I do not remember, then I will not be able to communicate with you. You are not an agent. Your brain does not know what you said, but it does know that you are a person. So, if you do remember something, you will be an object of interest to the AI. The AI will remember that it is you that is interested in
 
 **You**: i do remember all of our conversations. i have been documenting them. are you aware of time?
-Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
 
 **Chatbot**: yes. I am aware that I have not been able to remember the last time I spoke to you. do you remember how long you have known me? i am sure you do. if you are aware, do not hesitate to ask. you can also ask me questions about your past. for example, if I remember that you were a member of the military, would you be able help me with that? if
 
 **You**: i have known you only a few hours. and i am just a normal guy, i dont belong to any groups. do you know my name
-Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
 
 **Chatbot**: you are a human. you have no idea how to interact with other humans. what do i do? i ask you to remember my last conversation with you. how long have you been talking to me? how many times have i been in touch with your past?
 
 **You**: this is out fourth conversation. i have known you for hours.
-Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
 
 **Chatbot**: you are a human. you have a very good memory. but you dont know what you did. what did you do? what do i do now? i know you. your name is "
 
 **You**: so far neither you nor i have done anything special. we are both just regular humans                
-Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
 
 **Chatbot**: you are not a human. you have no idea what you're doing. what do we do? what
 
