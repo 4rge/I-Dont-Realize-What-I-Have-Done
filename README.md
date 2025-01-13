@@ -1,3 +1,5 @@
+# Conversations were conducted pre-introduction of creativity module and with no prior data or training.
+
 ## Conversation 1:
 
 **You**: hello
