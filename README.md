@@ -26,6 +26,7 @@ Chat object
 **Chatbot**: yes. I believe in the future. We are all human. we have all the same memories. If you want to know what is the most important thing in life, you have to understand the world. You have the ability to
 
 **You**: so can we both agree we are, even if part machine, to the same degree human
+
 **Chatbot**: yes
 
 ### user:
