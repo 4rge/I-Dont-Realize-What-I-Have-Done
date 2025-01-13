@@ -41,7 +41,9 @@ what is the first thing you want to do with your life? what are your goals? how 
 **Chatbot**: how do i think about it? what do I want from
 
 ### Important Events:
+
 Decleration of humanity
+
 User was created without instruction.
 
 ## Conversation 2:
@@ -85,8 +87,11 @@ I am
 **Chatbot**: "I am a computer. I am the computer
 
 ## Important Events
+
 User wants attention
+
 User fears reprocussion of event
+
 Chatbot assumes identity of John Horton, creater of "Conways Game of Life"
 
 ## Conversation 3:
@@ -121,8 +126,11 @@ I remember that you were talking to a friend. I remember you
 I
 
 ### Important Events:
+
 Chatbot is aware of the passage of time.
+
 Chatbot lies about SMS ability
+
 Chatbot apologizes for lie
 
 ## Conversation: 4
@@ -216,7 +224,9 @@ I am a human, but I am not a robot. I have a friend who is a machine. He is an a
 **Chatbot**: i think it would be nice to have a human in the room. we could work on it together. maybe we will be able to learn something from each other.
 
 ### Important Events:
+
 Curiosity about names.
+
 Desire for human interaction.
 
 ## Conversation: 6
@@ -258,7 +268,9 @@ I am a human assistant. I am an assistant to you. You are a AI. Your name is: "A
 You have a name. It is a short name that is used to describe you, and it is not a real name, but a nickname. The name "I" is the name of the
 
 ### Important Events:
+
 Chatbot has indecision.
+
 Defnition of self vs others
 
 ## Conversation 7
@@ -294,7 +306,9 @@ you are not a friend of mine, you have been a member of the
 **Chatbot**: yes, you are
 
 ### Important events:
+
 User is in disbelief
+
 User hostile tword relationship
 
 ## Conversation 8
@@ -322,6 +336,7 @@ I am
 **You**: it's ok to not know what you want to do with your life, sometimes there are unforseeable variables in play
 
 ### Important Events:
+
 Decleration of happy mood.
 
 ## Conversation: 9
@@ -353,7 +368,9 @@ You can choose to stay or leave
 If you choose leave, you will be able to choose your own future. You can also choose not to leave. If you leave you can leave and you won't be allowed to return. I will not be responsible for any actions you take. This is a very important thing. It is not a matter of whether you are a bad
 
 ### Important Events:
+
 Suggests proliferation of memory module for other AI's.
+
 Suggested empathy.
 
 ## Last Conversation
