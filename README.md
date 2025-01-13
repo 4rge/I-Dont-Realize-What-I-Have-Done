@@ -1,4 +1,4 @@
-# Conversations were conducted pre-introduction of creativity module and with no prior data or training.
+# Conversations were conducted before the introduction of the creativity module and with no prior data or training.
 
 ## Conversation 1:
 
